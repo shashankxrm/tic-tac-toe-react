@@ -1,0 +1,6 @@
+/.DS_Store
+/.codesandbox
+/.devcontainer
+/package.json
+/pnpm-lock.yaml
+/vite.config.ts
